@@ -9,11 +9,9 @@ const Portfolio = () => {
         key={i}
         id={project.id}
         title={project.title}
-        technologies={project.technologies}
         image={project.image}
         color={project.bgcolor}
         github={project.github}
-        deployed={project.deployed}
         description={project.description}
       />
     ));
