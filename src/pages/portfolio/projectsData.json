@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Creed Thoughts",
+    "image": "./projectImages/mock2.png",
+    "description": "Tech blog but really its just creeds thoughts",
+    "technologies": "Leaflet | jQuery | Bootstrap",
+    "github": "https://github.com/CodingTrophyWife/Creeds-Thoughts",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Cirque-Du Sore Legs",
+    "image": "./projectImages/mock3.png",
+    "technologies": "jQuery | HTML | CSS",
+    "description": " Fitness anywhere, anytime",
+    "github": "https://github.com/CodingTrophyWife/cirque-de-sore-legs",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "The Dundies",
+    "image": "./projectImages/mock4.png",
+    "technologies": "JS | Node | Bootstrap | OOP | TTD",
+    "description": "employee tracker",
+    "github": "https://github.com/CodingTrophyWife/The-Dundies",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "90's Music Trivia",
+    "image": "./projectImages/mock1.png",
+    "technologies": "JS | HTML | CSS",
+    "description": "A quiz app on the fundamentals of JavaScript. There are 5 randomly selected multiple-choice questions and the user will have a time limit of 50 seconds. The remaining time will determine their score at the end. The user will be penalised by 10 seconds for every incorrect answer.",
+    "github": "https://github.com/CodingTrophyWife/90s-Music-trivia-",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "Daily Bull Sheet",
+    "image": "./projectImages/mock5.png",
+    "description": "Note Taker.",
+    "technologies": "React | Framer | CSS | Bootstrap | Node",
+    "github": "https://github.com/CodingTrophyWife/Daily-Bull-Sheet",
+    "bgcolor": "#ffcc33",
+    "id": "5"
+  },
+
+  {
+    "title": "Password Generator",
+    "image": "./projectImages/mock6.png",
+    "technologies": "JS | Bootstrap | Moment",
+    "description": "password generator",
+    "github": "https://github.com/CodingTrophyWife/Password-Generator",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  },
+  {
+    "title": "Under My Umbrella",
+    "image": "./projectImages/mock7.png",
+    "technologies": "JS | Bootstrap | Moment",
+    "description": "Weather dashboard app ",
+    "github": "https://github.com/CodingTrophyWife/under-my-umbrella",
+    "bgcolor": "#3e67ff",
+    "id": "7"
+  },
+  {
+    "title": "Tryng to Adult",
+    "image": "./projectImages/mock8.png",
+    "technologies": "JS | Bootstrap | Moment",
+    "description": "Work Day Scheduler",
+    "github": "https://github.com/CodingTrophyWife/Trying-To-Adult",
+    "bgcolor": "#3e67ff",
+    "id": "8"
+  }
+
+]
